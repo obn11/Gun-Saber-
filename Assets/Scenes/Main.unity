@@ -13624,7 +13624,7 @@ MonoBehaviour:
   sword: {fileID: 801207781}
   ammoMax: 8
   ammo: 0
-  reloadRequired: 0
+  reloadRequired: 1
 --- !u!120 &1117452509
 LineRenderer:
   m_ObjectHideFlags: 0

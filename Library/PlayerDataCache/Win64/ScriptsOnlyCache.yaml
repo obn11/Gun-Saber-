@@ -1437,4 +1437,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Main Menu.unity
   - Assets/Scenes/Main.unity
-  playerPath: C:/Users/User/Desktop/VR Gun Game.exe
+  playerPath: C:/Users/User/VR Gun Game/Gun Saber.exe
